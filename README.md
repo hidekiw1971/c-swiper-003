@@ -7,6 +7,7 @@
 
 
 ## 概要
+- swiper(cdn、navigation、pagination外側に設置、非自動)
 - cdnを利用(swiper@8)　※注意事項を参照！
 - `<link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"`
 - `swiper`(`pagination` 外側に設置)
