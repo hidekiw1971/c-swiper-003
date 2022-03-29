@@ -1,14 +1,15 @@
 # compornent（共通部品）
 
 ## イメージ画像
+
 <img width="409" alt="image" src="https://user-images.githubusercontent.com/99580997/160584080-454ea56f-ee6f-4b6e-802e-7ebbe59462d7.png">
 <img width="785" alt="image" src="https://user-images.githubusercontent.com/99580997/160584137-4ddcff42-4ee6-4a4f-9427-4262ae72d90d.png">
 <img width="1160" alt="image" src="https://user-images.githubusercontent.com/99580997/160584189-736fbe5c-0432-46b8-b8c9-649895cabd0b.png">
 
-
 ## 概要
-- swiper(cdn、navigation、pagination外側に設置、非自動)
-- cdnを利用(swiper@8)　※注意事項を参照！
+
+- swiper(cdn、navigation、pagination 外側に設置、非自動)
+- cdn を利用(swiper@8)　※注意事項を参照！
 - `<link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"`
 - `swiper`(`pagination` 外側に設置)
 - `pagination`の位置調整は`.swiper-wrapper`で調整する。
@@ -60,6 +61,7 @@
 
 ## 更新履歴
 
+- 2022/3/29 autoplay 機能を実装完了
 - 2022/3/29 初版 作成完了(ノーマルパターン、非自動)
 
 ## 環境・使い方
