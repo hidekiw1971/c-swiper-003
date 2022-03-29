@@ -7,7 +7,8 @@
 
 
 ## 概要
-
+- cdnを利用(swiper@8)　※注意事項を参照！
+- `<link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"`
 - `swiper`(`pagination` 外側に設置)
 - `pagination`の位置調整は`.swiper-wrapper`で調整する。
 
@@ -20,7 +21,13 @@
 
 ## 注意事項
 
-- xxx
+- `swiper@8`を利用する場合、`reset.scss`の`text-rendering: optimizeSpeed;`をコメントにする必要があります。
+- コメントにしないと`navigation`が表示されません。
+- `body {`
+- `min-height: 100vh;`
+- `// text-rendering: optimizeSpeed;`
+- `line-height: 1.5;`
+- `}`
 
 ## 使い方
 
