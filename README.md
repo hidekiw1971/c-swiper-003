@@ -1,12 +1,14 @@
 # compornent（共通部品）
 
 ## イメージ画像
+<img width="409" alt="image" src="https://user-images.githubusercontent.com/99580997/160584080-454ea56f-ee6f-4b6e-802e-7ebbe59462d7.png">
+<img width="785" alt="image" src="https://user-images.githubusercontent.com/99580997/160584137-4ddcff42-4ee6-4a4f-9427-4262ae72d90d.png">
+<img width="1160" alt="image" src="https://user-images.githubusercontent.com/99580997/160584189-736fbe5c-0432-46b8-b8c9-649895cabd0b.png">
 
-- xxx
 
 ## 概要
 
-- swiper(pagination 外側に設置)
+- `swiper`(`pagination` 外側に設置)
 - `pagination`の位置調整は`.swiper-wrapper`で調整する。
 
 ## 仕様
@@ -28,10 +30,12 @@
 ## w3c html チェック結果
 
 - https://validator.w3.org/nu/
+- <img width="761" alt="image" src="https://user-images.githubusercontent.com/99580997/160584277-24df9994-5d5d-420f-b68f-13c91e38db15.png">
 
 ## w3c css チェック結果
 
 - https://jigsaw.w3.org/css-validator/
+- <img width="923" alt="image" src="https://user-images.githubusercontent.com/99580997/160584357-b58865d2-c595-4dd7-8750-07b99a562d6b.png">
 
 ## portfolio url:
 
@@ -48,7 +52,7 @@
 
 ## 更新履歴
 
-- 2022/3/29 初版 作成完了
+- 2022/3/29 初版 作成完了(ノーマルパターン、非自動)
 
 ## 環境・使い方
 
