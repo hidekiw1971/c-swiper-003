@@ -30,3 +30,12 @@
 .swiper-slide:nth-child(4n + 4) {
   background-color: #0000ff;
 }
+
+// navigationの位置調整用
+.swiper-wrapper {
+  padding-bottom: rem(35);
+  @include mq(md) {
+  }
+  @include mq(xl) {
+  }
+}

@@ -7,6 +7,7 @@
 ## 概要
 
 - swiper(pagination 外側に設置)
+- `pagination`の位置調整は`.swiper-wrapper`で調整する。
 
 ## 仕様
 
@@ -34,8 +35,7 @@
 
 ## portfolio url:
 
-- https://c-0000.wtb.cfbx.jp/
-- https://css-md-0000.wtb.cfbx.jp/
+- https://c-0040.wtb.cfbx.jp/
 
 ## 参考にしたサイト
 
@@ -43,10 +43,12 @@
 - https://swiperjs.com/get-started
 - 【実装例あり】スライダー Swiper.js の基本的な使い方、機能解説
 - https://kiomiru.co.jp/blog/coding/swiper-js/
+- Swiper.js のページネーションをスライダーの外側に移動する方法【CSS】(そのままでは実装できないが、ヒントになったサイト)
+- https://2tt1.org/swiper-pagination-move
 
 ## 更新履歴
 
-- 2022/mm/dd 初版 作成完了
+- 2022/3/29 初版 作成完了
 
 ## 環境・使い方
 
