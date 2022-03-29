@@ -6,7 +6,7 @@
 
 ## 概要
 
-- ｘｘｘ
+- swiper(pagination 外側に設置)
 
 ## 仕様
 
@@ -39,7 +39,10 @@
 
 ## 参考にしたサイト
 
-- xxx
+- swiperjs.com
+- https://swiperjs.com/get-started
+- 【実装例あり】スライダー Swiper.js の基本的な使い方、機能解説
+- https://kiomiru.co.jp/blog/coding/swiper-js/
 
 ## 更新履歴
 
